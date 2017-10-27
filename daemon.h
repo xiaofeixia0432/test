@@ -1,0 +1,1 @@
+extern int create_daemon();
